@@ -2,9 +2,8 @@
 
 Open-source framework for modeling Vehicle Routing Problems.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mck-/Open-VRP.git   |
-| commit  | 408cb67  |
-| systems | Open-VRP |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/mck-/Open-VRP.git |
+| commit  | 408cb67                                  |
+| systems | (open-vrp open-vrp-lib)                  |
+|---------+------------------------------------------|
